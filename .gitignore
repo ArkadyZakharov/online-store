@@ -1,0 +1,7 @@
+.sass-cache/
+vendor/
+node_modules/
+assets/images/**/*.*
+!assets/images/.gitkeep
+public/images/**/*.*
+!public/images/.gitkeep
